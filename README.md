@@ -31,7 +31,7 @@ This project analyzes Twitter sentiment to predict stock movements using sentime
 
 ### Folders
 - **`data`**: Contains raw and processed tweet data files.
-- **`results`**: Contains model training and evaluation results.
+  
 
 ## Workflow
 1. **Scrape Tweets**:
