@@ -28,9 +28,6 @@ This project analyzes Twitter sentiment to predict stock movements using sentime
    - Saves evaluation metrics to a text file.
    - **Input**: `processed_tweets.csv`.
    - **Output**: Results saved to `results/evaluation_results.txt`.
-
-### Folders
-- **`data`**: Contains raw and processed tweet data files.
   
 
 ## Workflow
