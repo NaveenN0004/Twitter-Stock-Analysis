@@ -1,0 +1,19 @@
+Here is the list of libraries used in the entire project:
+
+tweepy - For accessing Twitter API and fetching tweets.
+pandas - For data manipulation and CSV handling.
+os - For interacting with the operating system, such as creating directories.
+time - For managing delays (e.g., when handling rate limits).
+re - For regular expressions to clean text data.
+textblob - For performing sentiment analysis on tweets.
+sklearn (scikit-learn):
+model_selection - For splitting data into training and test sets.
+svm - For training the Support Vector Machine (SVM) model.
+metrics - For evaluating model performance (accuracy, classification report).
+preprocessing - For data scaling (StandardScaler).
+deap - For implementing the Genetic Algorithm (GA).
+base - For creating the basic components of the GA.
+creator - For defining custom types in the GA.
+tools - For using evolutionary algorithm tools like crossover and mutation.
+algorithms - For running the evolutionary algorithm.
+random - For generating random numbers (used in GA).
